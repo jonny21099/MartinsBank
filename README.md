@@ -1,2 +1,2 @@
 # MartinsBank
-A fake bank website using react/django/postgres
+A fake bank website using react/django/sqlite
